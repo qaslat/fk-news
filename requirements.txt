@@ -2,3 +2,4 @@ scikit-learn == 0.22.1
 pandas
 numpy
 Flask
+Cython >= 0.28.5
